@@ -74,6 +74,7 @@ to get a ready-to-use development environment for you to start working on this c
 If you're looking for issues to help out with, check out [the issues labeled "good first pick"](https://github.com/webdriverio/webdriverio/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+pick"). You can also reach out to our [Matrix Channel](https://discord.webdriver.io) if you have questions on where to start contributing.
 
 ## :office: WebdriverIO for Enterprise
+## By Mudassir Alam
 
 Available as part of the Tidelift Subscription.
 
